@@ -7,3 +7,9 @@ export type TipoProduto = {
     foto: string;
 }
 
+export type TipoUsuario = {
+    id: number,
+    login: string,
+    avatar_url: string
+}
+

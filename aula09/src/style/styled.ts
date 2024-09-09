@@ -19,7 +19,7 @@ export const Header = styled.header`
 // Estilizando o Footer
 export const Footer = styled.footer`
   background-color: #333;
-  padding: 10px;
+  padding: 5px;
   text-align: center;
   color: white;
   position: fixed;
@@ -30,7 +30,7 @@ export const Footer = styled.footer`
 export const MainContent = styled.main`
   padding: 20px;
   margin-top: 60px; // Espaço para o Header
-  margin-bottom: 40px; // Espaço para o Footer
+  margin-bottom: 100px; // Espaço para o Footer
 `
 
 // Estilizando o contêiner do menu
